@@ -13,10 +13,10 @@
       "id": 2
     },
     {
-      "text": "Have a BreakFast",
-      "day": "Today at 10 AM",
-      "reminder": false,
-      "id": 3
+      "text": "Nahed",
+      "day": "All day",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
