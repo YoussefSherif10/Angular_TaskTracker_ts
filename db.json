@@ -13,10 +13,10 @@
       "id": 2
     },
     {
-      "text": "Nahed",
-      "day": "All day",
-      "reminder": true,
-      "id": 4
+      "text": "Take Breakfast",
+      "day": "Today at 10am",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
